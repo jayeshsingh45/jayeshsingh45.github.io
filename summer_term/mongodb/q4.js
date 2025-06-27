@@ -1,0 +1,1 @@
+db.employees.find({},{_id:0,name:1})
